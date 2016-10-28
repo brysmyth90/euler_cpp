@@ -4,12 +4,13 @@
 #include <iostream>
 #include "euler_01.h"
 #include "euler_02.h"
+#include "euler_03.h"
 
 
 
 int main()
 {
-	std::cout << euler_02() << std::endl;
+	int a = euler_03();
 	return 0;
 }
 
